@@ -1,4 +1,2 @@
 Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
-
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+Os microsserviços são partes isoladas de aplicações; serviços pequenos e que podem ser desenvolvidos independentes. Já o Docker (que serve tanto para criar, empacotar e executar) vem para permitir que este microsserviço possa rodar em seu próprio container de forma independente, podendo até executar microsserviços de uma mesma aplicação em linguagens diferentes, pois todas as comunicações acabam por fim em HTTP ou mensageria.
